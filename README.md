@@ -7,11 +7,11 @@
 
 - 🌱 I’m learning **TypeScript and advanced React patterns**
 
-- 👨‍💻 All of my projects are available at [github.com/your-github-username](https://github.com/your-github-username)
+- 👨‍💻 All of my projects are available at [github.com/ashikaraj](https://github.com/ashikaraj)
 
 - 💬 Ask me about **React, JavaScript, and web development**
 
-- 📫 How to reach me **ashika.raj@example.com**
+- 📫 How to reach me **ashikaraj156@gmail.com**
 
 ---
 
