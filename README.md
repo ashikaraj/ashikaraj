@@ -46,22 +46,25 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=blue-green" alt="ashika-raj-streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashikaraj&show_icons=true&theme=github_dark&hide_border=true" alt="Ashika Raj GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=blue-green" alt="ashika-raj-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikaraj&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="ashika-raj-languages"/>
+  <img src="https://streak-stats.demolab.com?user=ashikaraj&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
+
 <p align="center">
-  <a href="https://linkedin.com/in/ashika-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="ashika-raj" height="30" width="30" /></a>
-  <a href="https://twitter.com/ashika-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="ashika-raj" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" />
+  </a>
 </p>
