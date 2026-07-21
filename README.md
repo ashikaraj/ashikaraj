@@ -1,27 +1,46 @@
 <h1 align="center">Hi 👋, I'm Ashika Raj</h1>
-<h3 align="center">A passionate React.js Developer</h3>
+<h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI | Tableau</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="ashika-raj" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ashikaraj&label=Profile%20views&color=0e75b6&style=flat" alt="ashikaraj" />
+</p>
 
-- 🔭 I’m currently working on **React projects**
+- 📊 I’m currently building **end-to-end Data Analytics projects**
 
-- 🌱 I’m learning **TypeScript and advanced React patterns**
+- 🌱 I’m learning **Power BI, Advanced SQL, and Python for Data Analytics**
 
-- 👨‍💻 All of my projects are available at [github.com/ashikaraj](https://github.com/ashikaraj)
+- 👨‍💻 Explore my projects here: **https://github.com/ashikaraj**
 
-- 💬 Ask me about **React, JavaScript, and web development**
+- 💬 Ask me about **SQL, Python, Tableau, Power BI, and Data Visualization**
 
-- 📫 How to reach me **ashikaraj156@gmail.com**
+- 📜 Google Data Analytics Professional Certificate
+
+- 📫 Reach me at **ashikaraj156@gmail.com**
 
 ---
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <!-- Add more tools as you use them -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+
+  <img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" width="40" height="40"/>
+
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="40" height="40"/>
+
+  <img src="https://cdn.simpleicons.org/googlebigquery/4285F4" alt="BigQuery" width="40" height="40"/>
+
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" width="40" height="40"/>
 </p>
 
 ---
