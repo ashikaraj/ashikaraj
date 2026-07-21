@@ -45,18 +45,15 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashikaraj&show_icons=true&theme=github_dark&hide_border=true" alt="Ashika Raj GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashikaraj&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikaraj&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikaraj&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashikaraj&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ashikaraj&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
